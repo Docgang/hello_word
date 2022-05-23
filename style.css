@@ -10,7 +10,8 @@
 .items {
     height: 80px;
     width: 80px;
-    border: 1px solid wheat;
-    background: wheat;
+    border: 1px solid white;
+    background-color: white;
     justify-content: center;
+    text-align: center;
 }
