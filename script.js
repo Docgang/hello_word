@@ -1,4 +1,3 @@
-let a = 10;
-let b = 20;
-let c = a + b;
-console.log(c);
+const place = "please visit microsoft"
+const newplace = place.replace("visit", "ebc")
+console.log(newplace)

@@ -32,7 +32,7 @@
     height: 80px;
     width: 80px;
     border: 1px solid white;
-    flex: 1;
+    flex: 0.5;
     background-color: darksalmon;
     text-align: center;
 }
@@ -45,4 +45,18 @@
     padding-top: 15px;
     color: white;
     
+}
+button {
+    color: #fff;
+    text-transform: uppercase;
+    border: none;
+    background-color: #212226;
+    border-radius: 100px;
+    margin-left: 45%;
+
+}
+button:hover,
+button:focus {
+    background-color: #f4c613;
+    color: black;
 }
